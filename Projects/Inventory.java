@@ -17,7 +17,7 @@ import classes.*;
  * This class does not handle user menus directly; instead, it provides
  * protected methods to be used by higher-level controller classes.
  *
- * @author Sebastian T.
+ * @author Sebastian
  * @version 1.0
  * @since 2025-12-25
  */
